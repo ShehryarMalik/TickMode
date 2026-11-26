@@ -4,6 +4,18 @@ An Android interval timer for repeatable vibration and sound signals.
 
 TickMode runs one session at a time. Set an interval, choose a signal, and start the session. It continues until you pause or stop it.
 
+## Why I made it
+
+TickMode started as a personal experiment inspired by Whiterose from *Mr. Robot* and the character's unusual relationship with time, precision and routine.
+
+I became interested in a simple question: what would happen if I introduced deliberate, recurring signals into my everyday life?
+
+Would I become more aware of how I spend my time? Would my routines change? Would having a small, consistent interruption help me become more intentional about what I'm doing?
+
+I don't know yet. That's the experiment.
+
+TickMode is my attempt to explore that idea through a simple tool, without turning it into another productivity system.
+
 ## Features
 
 - Repeating interval sessions with no configured end time
@@ -47,3 +59,7 @@ The project includes the Gradle wrapper. See [Build from Source](docs/BUILD_FROM
 TickMode is an independently developed project. It is tested on a limited set of Android devices, and background execution can vary between manufacturers and firmware versions.
 
 Bug reports and practical feedback are welcome.
+
+---
+
+*TickMode is an independent project inspired by a fictional character from Mr. Robot. It is not affiliated with or endorsed by the show's creators or rights holders.*
