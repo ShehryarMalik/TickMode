@@ -1,0 +1,25 @@
+.gradle/
+.kotlin/
+**/build/
+local.properties
+.DS_Store
+*.iml
+.idea/
+
+# Local Android configuration
+local.properties
+
+# Build output and caches
+.gradle/
+.kotlin/
+**/build/
+.idea/
+
+# Release signing material
+*.jks
+*.keystore
+keystore.properties
+
+# Local debug/release artifacts
+*.apk
+*.aab
